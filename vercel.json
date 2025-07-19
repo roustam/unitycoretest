@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "unity-webgl-game",
+  "name": "unitycoretest",
   "builds": [
     {
       "src": "index.html",
@@ -125,7 +125,6 @@
       ]
     }
   ],
-  "functions": {},
   "rewrites": [
     {
       "source": "/",
