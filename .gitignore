@@ -28,3 +28,9 @@ __pycache__/
 # Exclude any backup files
 *.bak
 *.backup
+
+# Vercel
+.vercel
+
+# Note: server.py is kept for local development
+# Vercel uses vercel.json configuration instead
