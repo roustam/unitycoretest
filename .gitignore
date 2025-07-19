@@ -1,0 +1,30 @@
+# Unity WebGL Build - keep the essential files
+# Exclude temporary files
+*.tmp
+*.temp
+*~
+
+# Exclude system files
+.DS_Store
+Thumbs.db
+
+# Exclude editor files
+*.swp
+*.swo
+*~
+
+# Keep Unity WebGL build files (Build directory)
+# Keep server files
+# Keep HTML and templates
+
+# Exclude any logs
+*.log
+
+# Exclude any cache directories
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude any backup files
+*.bak
+*.backup
